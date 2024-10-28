@@ -1,49 +1,72 @@
-### Hello World 👋 It's [Soumyajit!](https://portfolio.soumyajitghosh.life/)
+# Soumyajit Ghosh
+**Software Developer · Full Stack Developer**
 
-<br/>
+📞 +91-9674447085 | ✉️ soumyajitghosh.official@gmail.com  
+[GitHub](https://github.com/SoumyajitGhosh) | [LinkedIn](https://www.linkedin.com/in/soumyajit-ghosh-17b719163/) | [Portfolio](https://portfolio.soumyajitghosh.life)
 
+---
 
-<a href="https://x.com/sjit_ghosh9">
-<img align="left" alt="Soumyajit Ghosh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/soumyajit-ghosh-17b719163/">
-<img align="left" alt="Soumyajit Ghosh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<!-- <a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
-<a href="https://www.instagram.com/_soumyajit.ghosh_/">
-<img align="left" alt="Soumyajit Ghosh" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<!-- <a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> -->
-<br />
+## 🛠 Skills
+- **Programming Languages**: JavaScript, TypeScript
+- **Frontend Frameworks & Libraries**: React.js, Redux, HTML/CSS, Material UI, Tailwind CSS
+- **Backend Frameworks**: Node.js, Express
+- **Databases**: PostgreSQL, MongoDB
+- **Tools & Platforms**: Webpack, Git, JIRA, REST APIs, Prisma
 
-<br />
+## 💼 Work Experience
 
-Hi, I'm Soumyajit Ghosh 🙌, a tech enthusiast with a passion for building dynamic, user-friendly interfaces and efficient backend systems. Apart from that, I love playing sports over the weekend and occasionally dive into some anime. I used to be a cinephile, but now I hardly get the time. ❤
+**UNO Digital Bank**  
+*Associate Software Developer*  
+2023 - Present  
+- Spearheaded the development and maintenance of the UNO CRM App using React, Redux, Webpack, and WebSocket, increasing app performance and scalability by 30%.
+- Co-created frontend flows that reduced page load times by 25% and improved UI/UX.
+- Developed a card delivery tracking system, enhancing accuracy by 35%.
+- Built real-time customer chat support, raising customer satisfaction by 40%.
+- Improved interdepartmental communication by 25%, reducing feature rollout time by 15%.
 
+**Tradelab Technologies Pvt. Ltd., Bengaluru**  
+*Front-end Developer*  
+2021 - 2023  
+- Directed UI design and development using HTML, CSS, React, Redux, and REST APIs, leading to a 40% increase in user interaction efficiency.
+- Managed Mutual Fund coding for the front-end team, achieving a 25% reduction in turnaround time.
+- Streamlined processes, decreasing project delivery time by 20%.
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/m/1I3KJAfgBN4AAAAC/subida.gif" />
+## 🚀 Projects
 
+**UNO CRM App**  
+For UNO Digital Bank  
+- Engineered a CRM app with React, Redux, and WebSocket, supporting 5,000+ daily transactions and delivering real-time updates.
+- Implemented card delivery tracking and customer chat support, achieving 35% and 40% improvements, respectively.
 
-**Talking about Personal Stuffs:**
+**HDFC SKY - Trading Application**  
+- Designed UI for Mutual Funds and US Stocks, improving transaction efficiency by 45%.
+- Integrated analytics and dynamic links to enhance user engagement by 25%.
 
-- 🔭 I’m currently Associate Software Developer at UNO Digital Bank.
-- 🌱 I’m currently learning System Design and other advanced backend-related concepts.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Any of the Social-Media Platform 
-- 📝[Portfolio](https://portfolio.soumyajitghosh.life/)
+**TopGram - Social Media Platform**  
+- Built an Instagram clone with the MERN stack, boosting development efficiency by 40% and enabling scalable deployment.
 
-**Languages and Tools:**
+**Medium-Clone**  
+- Developed using React, Cloudflare workers, zod, TypeScript, Prisma, PostgreSQL, and JWT, reducing load times by 60% and improving backend processing by 50%.
 
+## 🎓 Education
 
-<code><img height="20" src="https://drive.google.com/drive/folders/1kIAkV9iIzGON2f6l-EIfpyd4v4xjLMV8"></code>
-<code><img height="20" src="https://drive.google.com/drive/folders/1kIAkV9iIzGON2f6l-EIfpyd4v4xjLMV8"></code>
-<code><img height="20" src="https://drive.google.com/drive/folders/1kIAkV9iIzGON2f6l-EIfpyd4v4xjLMV8"></code>
-<code><img height="20" src="https://drive.google.com/drive/folders/1kIAkV9iIzGON2f6l-EIfpyd4v4xjLMV8"></code>
-<code><img height="20" src="https://drive.google.com/drive/folders/1kIAkV9iIzGON2f6l-EIfpyd4v4xjLMV8"></code>
-<code><img height="20" src=""></code>
+**M.Sc. in Computer Science**  
+University of Calcutta, 2021 - 8.175 CGPA
 
-![Soumyajit's github stats](https://github-readme-streak-stats.herokuapp.com/?user=SoumyajitGhosh&theme=react&hide_border=true)
+**B.Sc. in Computer Science**  
+St. Xavier’s College, Kolkata, 2019 - 8.1 CGPA
+
+**Class 12th Boards(ISC)**
+St. Xavier's Institution, Panihati, 2016 - 96.25%
+
+**Class 10th Boards(ICSE)**
+St. Xavier's Institution, Panihati, 2014 - 94.4%
+
+---
+
+## 🌐 Links
+- [UNO Bank](https://portfolio.soumyajitghosh.life/uno-bank)
+- [TopGram](https://portfolio.soumyajitghosh.life/topgram)
+- [Portfolio](https://portfolio.soumyajitghosh.life)
+
+*Last Updated: October 28, 2024*
