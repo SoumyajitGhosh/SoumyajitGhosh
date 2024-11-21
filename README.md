@@ -66,7 +66,8 @@ St. Xavier's Institution, Panihati, 2014 - 94.4%
 
 ## 🌐 Links
 - [UNO Bank](https://portfolio.soumyajitghosh.life/uno-bank)
-- [TopGram](https://portfolio.soumyajitghosh.life/topgram)
+- [GlimpseHub](https://glimpse-hub.vercel.app)
 - [Portfolio](https://portfolio.soumyajitghosh.life)
+- [DevsLog](https://medium-clone-sg-tech.vercel.app/signup)
 
-*Last Updated: October 28, 2024*
+*Last Updated: Nov 21, 2024*
